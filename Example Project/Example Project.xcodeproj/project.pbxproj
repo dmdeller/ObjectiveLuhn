@@ -59,11 +59,9 @@
 		508E0A62168FC92800F237F4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		508E0A64168FC92800F237F4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		508E0A66168FC92800F237F4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5EC0BEC42D204F6EB01B4168 /* libPods-Luhn Algorithm (Mod 10).a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Luhn Algorithm (Mod 10).a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B701533F71341348BE747BB /* Pods-Example Project.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Example Project.xcconfig"; path = "Pods/Pods-Example Project.xcconfig"; sourceTree = "<group>"; };
 		CE7EAF1955E6410AB3F0C0D1 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED7D61ED784D495FA5F58B96 /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F3CDE8E3ECCA452187EF95E3 /* libPods-Example Project.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Example Project.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,8 +154,6 @@
 				508E0A66168FC92800F237F4 /* CoreGraphics.framework */,
 				501C53AC18BADF2300FF07AA /* XCTest.framework */,
 				ED7D61ED784D495FA5F58B96 /* libPods-Tests.a */,
-				5EC0BEC42D204F6EB01B4168 /* libPods-Luhn Algorithm (Mod 10).a */,
-				F3CDE8E3ECCA452187EF95E3 /* libPods-Example Project.a */,
 				CE7EAF1955E6410AB3F0C0D1 /* libPods.a */,
 			);
 			name = Frameworks;
