@@ -2,4 +2,4 @@
 
 cd Example\ Project
 pod install
-xctool build test -workspace Luhn\ Algorithm\ \(Mod\ 10\).xcworkspace -scheme Luhn\ Algorithm\ \(Mod\ 10\) -sdk iphonesimulator -configuration Release
+xctool build test -workspace Example\ Project.xcworkspace -scheme Example\ Project -sdk iphonesimulator -configuration Release
