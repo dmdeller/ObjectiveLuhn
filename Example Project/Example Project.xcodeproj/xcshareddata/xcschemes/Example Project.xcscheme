@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "508E0A5D168FC92800F237F4"
-               BuildableName = "Luhn Algorithm (Mod 10).app"
-               BlueprintName = "Luhn Algorithm (Mod 10)"
-               ReferencedContainer = "container:Luhn Algorithm (Mod 10).xcodeproj">
+               BuildableName = "Example Project.app"
+               BlueprintName = "Example Project"
+               ReferencedContainer = "container:Example Project.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "5004D52218BAEA410055C9AF"
                BuildableName = "Tests.xctest"
                BlueprintName = "Tests"
-               ReferencedContainer = "container:Luhn Algorithm (Mod 10).xcodeproj">
+               ReferencedContainer = "container:Example Project.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "508E0A5D168FC92800F237F4"
-            BuildableName = "Luhn Algorithm (Mod 10).app"
-            BlueprintName = "Luhn Algorithm (Mod 10)"
-            ReferencedContainer = "container:Luhn Algorithm (Mod 10).xcodeproj">
+            BuildableName = "Example Project.app"
+            BlueprintName = "Example Project"
+            ReferencedContainer = "container:Example Project.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "508E0A5D168FC92800F237F4"
-            BuildableName = "Luhn Algorithm (Mod 10).app"
-            BlueprintName = "Luhn Algorithm (Mod 10)"
-            ReferencedContainer = "container:Luhn Algorithm (Mod 10).xcodeproj">
+            BuildableName = "Example Project.app"
+            BlueprintName = "Example Project"
+            ReferencedContainer = "container:Example Project.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "508E0A5D168FC92800F237F4"
-            BuildableName = "Luhn Algorithm (Mod 10).app"
-            BlueprintName = "Luhn Algorithm (Mod 10)"
-            ReferencedContainer = "container:Luhn Algorithm (Mod 10).xcodeproj">
+            BuildableName = "Example Project.app"
+            BlueprintName = "Example Project"
+            ReferencedContainer = "container:Example Project.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
