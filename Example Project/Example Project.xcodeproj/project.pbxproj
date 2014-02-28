@@ -15,14 +15,11 @@
 		504C35BC18C140ED0028EBCF /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5004D52D18BAEA410055C9AF /* Tests.m */; };
 		504C35BD18C1410B0028EBCF /* TestCreditCardNumbers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5004D53518BAEC310055C9AF /* TestCreditCardNumbers.plist */; };
 		504C35BF18C141CF0028EBCF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 504C35BE18C141CE0028EBCF /* Images.xcassets */; };
-		504C35C418C141E40028EBCF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 504C35C118C141E40028EBCF /* AppDelegate.m */; };
-		504C35C518C141E40028EBCF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 504C35C318C141E40028EBCF /* ViewController.m */; };
-		504C35D118C141F50028EBCF /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 504C35C618C141F50028EBCF /* Default-568h@2x.png */; };
-		504C35D218C141F50028EBCF /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 504C35C718C141F50028EBCF /* Default.png */; };
-		504C35D318C141F50028EBCF /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 504C35C818C141F50028EBCF /* Default@2x.png */; };
-		504C35D418C141F50028EBCF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 504C35CA18C141F50028EBCF /* InfoPlist.strings */; };
-		504C35D518C141F50028EBCF /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 504C35CC18C141F50028EBCF /* ViewController.xib */; };
-		504C35D718C141F50028EBCF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 504C35D018C141F50028EBCF /* main.m */; };
+		504C35E818C146FD0028EBCF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 504C35DA18C146FD0028EBCF /* AppDelegate.m */; };
+		504C35EC18C146FD0028EBCF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 504C35DE18C146FD0028EBCF /* InfoPlist.strings */; };
+		504C35ED18C146FD0028EBCF /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 504C35E018C146FD0028EBCF /* ViewController.xib */; };
+		504C35F018C146FD0028EBCF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 504C35E518C146FD0028EBCF /* main.m */; };
+		504C35F118C146FD0028EBCF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 504C35E718C146FD0028EBCF /* ViewController.m */; };
 		508E0A63168FC92800F237F4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 508E0A62168FC92800F237F4 /* UIKit.framework */; };
 		508E0A65168FC92800F237F4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 508E0A64168FC92800F237F4 /* Foundation.framework */; };
 		508E0A67168FC92800F237F4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 508E0A66168FC92800F237F4 /* CoreGraphics.framework */; };
@@ -49,18 +46,15 @@
 		5005DC6718C14089002996DB /* Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		501C53AC18BADF2300FF07AA /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		504C35BE18C141CE0028EBCF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "Example Project/Images.xcassets"; sourceTree = "<group>"; };
-		504C35C018C141E40028EBCF /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "Example Project/AppDelegate.h"; sourceTree = SOURCE_ROOT; };
-		504C35C118C141E40028EBCF /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = "Example Project/AppDelegate.m"; sourceTree = SOURCE_ROOT; };
-		504C35C218C141E40028EBCF /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = "Example Project/ViewController.h"; sourceTree = SOURCE_ROOT; };
-		504C35C318C141E40028EBCF /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = "Example Project/ViewController.m"; sourceTree = SOURCE_ROOT; };
-		504C35C618C141F50028EBCF /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Example Project/Default-568h@2x.png"; sourceTree = SOURCE_ROOT; };
-		504C35C718C141F50028EBCF /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = "Example Project/Default.png"; sourceTree = SOURCE_ROOT; };
-		504C35C818C141F50028EBCF /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "Example Project/Default@2x.png"; sourceTree = SOURCE_ROOT; };
-		504C35CB18C141F50028EBCF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
-		504C35CD18C141F50028EBCF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = ViewController.xib; sourceTree = "<group>"; };
-		504C35CE18C141F50028EBCF /* Example Project-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Example Project-Info.plist"; path = "Example Project/Example Project-Info.plist"; sourceTree = SOURCE_ROOT; };
-		504C35CF18C141F50028EBCF /* Example Project-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Example Project-Prefix.pch"; path = "Example Project/Example Project-Prefix.pch"; sourceTree = SOURCE_ROOT; };
-		504C35D018C141F50028EBCF /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "Example Project/main.m"; sourceTree = SOURCE_ROOT; };
+		504C35D918C146FD0028EBCF /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		504C35DA18C146FD0028EBCF /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		504C35DF18C146FD0028EBCF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		504C35E118C146FD0028EBCF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		504C35E218C146FD0028EBCF /* Example Project-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Example Project-Info.plist"; sourceTree = "<group>"; };
+		504C35E318C146FD0028EBCF /* Example Project-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Example Project-Prefix.pch"; sourceTree = "<group>"; };
+		504C35E518C146FD0028EBCF /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		504C35E618C146FD0028EBCF /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		504C35E718C146FD0028EBCF /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		508E0A5E168FC92800F237F4 /* Example Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Example Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		508E0A62168FC92800F237F4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		508E0A64168FC92800F237F4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -118,21 +112,24 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		504C35C918C141F50028EBCF /* en.lproj */ = {
+		504C35D818C146FD0028EBCF /* Example Project */ = {
 			isa = PBXGroup;
 			children = (
-				504C35CA18C141F50028EBCF /* InfoPlist.strings */,
-				504C35CC18C141F50028EBCF /* ViewController.xib */,
+				504C35D918C146FD0028EBCF /* AppDelegate.h */,
+				504C35DA18C146FD0028EBCF /* AppDelegate.m */,
+				504C35E618C146FD0028EBCF /* ViewController.h */,
+				504C35E718C146FD0028EBCF /* ViewController.m */,
+				504C35E018C146FD0028EBCF /* ViewController.xib */,
+				50A3251E18C1474C00603093 /* Support Files */,
 			);
-			name = en.lproj;
-			path = "Example Project/en.lproj";
-			sourceTree = SOURCE_ROOT;
+			path = "Example Project";
+			sourceTree = "<group>";
 		};
 		508E0A53168FC92800F237F4 = {
 			isa = PBXGroup;
 			children = (
 				504C35BE18C141CE0028EBCF /* Images.xcassets */,
-				508E0A68168FC92800F237F4 /* Example Project */,
+				504C35D818C146FD0028EBCF /* Example Project */,
 				5004D52718BAEA410055C9AF /* Tests */,
 				508E0A61168FC92800F237F4 /* Frameworks */,
 				508E0A5F168FC92800F237F4 /* Products */,
@@ -166,31 +163,15 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		508E0A68168FC92800F237F4 /* Example Project */ = {
+		50A3251E18C1474C00603093 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				504C35C018C141E40028EBCF /* AppDelegate.h */,
-				504C35C118C141E40028EBCF /* AppDelegate.m */,
-				504C35C218C141E40028EBCF /* ViewController.h */,
-				504C35C318C141E40028EBCF /* ViewController.m */,
-				508E0A69168FC92800F237F4 /* Supporting Files */,
+				504C35DE18C146FD0028EBCF /* InfoPlist.strings */,
+				504C35E218C146FD0028EBCF /* Example Project-Info.plist */,
+				504C35E318C146FD0028EBCF /* Example Project-Prefix.pch */,
+				504C35E518C146FD0028EBCF /* main.m */,
 			);
-			name = "Example Project";
-			path = "Luhn Algorithm (Mod 10)";
-			sourceTree = "<group>";
-		};
-		508E0A69168FC92800F237F4 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				504C35C618C141F50028EBCF /* Default-568h@2x.png */,
-				504C35C718C141F50028EBCF /* Default.png */,
-				504C35C818C141F50028EBCF /* Default@2x.png */,
-				504C35C918C141F50028EBCF /* en.lproj */,
-				504C35CE18C141F50028EBCF /* Example Project-Info.plist */,
-				504C35CF18C141F50028EBCF /* Example Project-Prefix.pch */,
-				504C35D018C141F50028EBCF /* main.m */,
-			);
-			name = "Supporting Files";
+			name = "Support Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -280,12 +261,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				504C35D518C141F50028EBCF /* ViewController.xib in Resources */,
-				504C35D318C141F50028EBCF /* Default@2x.png in Resources */,
 				504C35BF18C141CF0028EBCF /* Images.xcassets in Resources */,
-				504C35D218C141F50028EBCF /* Default.png in Resources */,
-				504C35D418C141F50028EBCF /* InfoPlist.strings in Resources */,
-				504C35D118C141F50028EBCF /* Default-568h@2x.png in Resources */,
+				504C35ED18C146FD0028EBCF /* ViewController.xib in Resources */,
+				504C35EC18C146FD0028EBCF /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -367,9 +345,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				504C35C518C141E40028EBCF /* ViewController.m in Sources */,
-				504C35C418C141E40028EBCF /* AppDelegate.m in Sources */,
-				504C35D718C141F50028EBCF /* main.m in Sources */,
+				504C35F118C146FD0028EBCF /* ViewController.m in Sources */,
+				504C35F018C146FD0028EBCF /* main.m in Sources */,
+				504C35E818C146FD0028EBCF /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -392,18 +370,18 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		504C35CA18C141F50028EBCF /* InfoPlist.strings */ = {
+		504C35DE18C146FD0028EBCF /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				504C35CB18C141F50028EBCF /* en */,
+				504C35DF18C146FD0028EBCF /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		504C35CC18C141F50028EBCF /* ViewController.xib */ = {
+		504C35E018C146FD0028EBCF /* ViewController.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				504C35CD18C141F50028EBCF /* en */,
+				504C35E118C146FD0028EBCF /* en */,
 			);
 			name = ViewController.xib;
 			sourceTree = "<group>";
